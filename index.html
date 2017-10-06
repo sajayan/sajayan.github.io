@@ -1,0 +1,30 @@
+---
+layout: default
+body: home
+title: CRM Solution Architect in Chicago, Sajayan Kaimal
+description: CRM Consultant &amp; Solution Architect from India based in Chicago, IL
+---
+
+<h1 class="h1--home"><em>Sajayan Kaimal</em><br>CRM Solution Architect<br><em>San Francisco</em></h1>
+
+<p class="media"><a href="{{ site.baseurl }}/portfolio"><img src="{{ site.baseurl }}/img/home.jpg" alt="Mailgun"></a></p>
+
+<section class="home-posts">
+  <ul class="posts">
+  {% for post in site.posts limit: 3 %}
+    {% unless post.draft %}
+      <li><a href="{{site.baseurl}}{{ post.url }}"><span class="title">{{ post.title }}</span> <span class="date"> - {{post.date| date: "%b %Y"}}</span><span class="excerpt">{{ post.excerpt | strip_html | truncatewords:30 }}</span></a></li>
+    {% endunless %}
+  {% endfor %}
+    <li><a href="/blog"><span class="title">More blog posts &raquo;</span></a></li>
+  </ul>
+</section>
+
+<div class="post-subscribe">
+  <h3>Subscribe to more design content like this</h3>
+  <form method="post" action="//leemunroe.us1.list-manage.com/subscribe/post?u=1998df7f0f3a32bdf922938ca&amp;id=bea3a63f45" target="_blank">
+    <input type="email" name="EMAIL" placeholder="Enter your email" id="mce-EMAIL" required>
+    <button class="btn-primary">Subscribe</button>
+  </form>
+  <p>I promise not to spam you. No more than one email per week.</p>
+</div>
