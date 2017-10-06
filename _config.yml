@@ -1,0 +1,14 @@
+name: Sajayan Kaimal
+# markdown: redcarpet
+highligher: pygments
+baseurl: 
+permalink: /:title/
+paginate: 10
+future: true
+paginate_path: /blog/page/:num
+description: Blog of Sajayan Kaimal
+url: http://www.sajayan.com
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-redirect-from
