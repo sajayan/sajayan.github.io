@@ -15,4 +15,4 @@ Find me on the following websites:
 * [Medium](http://medium.com/@sajayan)
 * [Trailhead](https://trailhead.salesforce.com/en/users/profiles/0055000000612i1AAA)
 
-For immediate response DM me in <a href="http://twitter.com/sajayan">@sajayan</a>. Or, send me an email at [kaimal@sajayan.com](mailto:kaimal@sajyan.com).
+For immediate response DM me at <a href="http://twitter.com/sajayan">@sajayan</a>. Or, send me an email at [kaimal@sajayan.com](mailto:kaimal@sajyan.com).
