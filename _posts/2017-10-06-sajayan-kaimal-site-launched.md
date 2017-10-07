@@ -2,13 +2,11 @@
 layout: post
 status: publish
 published: true
-title: 'Don Quixote - Test blog from Sajayan.com - Ignore'
+title: 'First Post - Hello World'
 author: Sajayan Kaimal
-date: 2017-10-06 12:34
+date: 2017-10-07 00:00
 tags: Generic, Technology
 ---
 
-Chapter 1: In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing. An olla of rather more beef than mutton, a salad on most nights, scraps on Saturdays, lentils on Fridays, and a pigeon or so extra on Sundays, made away with three-quarters of his income. The rest of it went in a doublet of fine cloth and velvet breeches and shoes to match for holidays, while on week-days he made a brave figure in his best homespun. He had in his house a housekeeper past forty, a niece under twenty, and a lad for the field and market-place, who used to saddle the hack as well as handle the bill-hook. The age of this gentleman of ours was bordering on fifty; he was of a hardy habit, spare, gaunt-featured, a very early riser and a great sportsman. They will have it his surname was Quixada or Quesada (for here there is some difference of opinion among the authors who write on the subject), although from reasonable conjectures it seems plain that he was called Quexana. This, however, is of but little importance to our tale; it will be enough not to stray a hair's breadth from the truth in the telling of it.
-
-#### Chapter 2 :
-These preliminaries settled, he did not care to put off any longer the execution of his design, urged on to it by the thought of all the world was losing by his delay, seeing what wrongs he intended to right, grievances to redress, injustices to repair, abuses to remove, and duties to discharge. So, without giving notice of his intention to anyone, and without anybody seeing him, one morning before the dawning of the day (which was one of the hottest of the month of July) he donned his suit of armour, mounted Rocinante with his patched-up helmet on, braced his buckler, took his lance, and by the back door of the yard sallied forth upon the plain in the highest contentment and satisfaction at seeing with what ease he had made a beginning with his grand purpose. But scarcely did he find himself upon the open plain, when a terrible thought struck him, one all but enough to make him abandon the enterprise at the very outset. It occurred to him that he had not been dubbed a knight, and that according to the law of chivalry he neither could nor ought to bear arms against any knight; and that even if he had been, still he ought, as a novice knight, to wear white armour, without a device upon the shield until by his prowess he had earned one. These reflections made him waver in his purpose, but his craze being stronger than any reasoning, he made up his mind to have himself dubbed a knight by the first one he came across, following the example of others in the same case, as he had read in the books that brought him to this pass. As for white armour, he resolved, on the first opportunity, to scour his until it was whiter than an ermine; and so comforting himself he pursued his way, taking that which his horse chose, for in this he believed lay the essence of adventures.
+#### Hi
+Hellow World from Sajayan.com !!
