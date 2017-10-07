@@ -10,9 +10,9 @@ description: Find me on Twitter, LinkedIn, Medium, GitHub etc.
 Find me on the following websites:
 
 * [Twitter](http://twitter.com/sajayan)
-* [LinkedIn](http://www.linkedin.com/in/leemunroe/)
+* [LinkedIn](http://www.linkedin.com/in/sajayan/)
 * [GitHub](http://github.com/sajayan)
 * [Medium](http://medium.com/@sajayan)
 * [Trailhead](https://trailhead.salesforce.com/en/users/profiles/0055000000612i1AAA)
 
-For immediate response DM me at <a href="http://twitter.com/sajayan">@sajayan</a>. Or, send me an email at [kaimal@sajayan.com](mailto:kaimal@sajyan.com).
+For immediate response DM me at <a href="http://twitter.com/sajayan">@sajayan</a>. Or, send me an email at [kaimal@sajayan.com](mailto:kaimal@sajayan.com).
