@@ -5,6 +5,7 @@ published: true
 title: 'First Post - Hello World'
 author: Sajayan Kaimal
 date: 2017-10-07 00:00
+categories: generic crm technology
 tags: Generic, Technology
 ---
 
