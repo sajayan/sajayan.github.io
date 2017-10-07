@@ -8,5 +8,18 @@ date: 2017-10-07 00:00
 tags: Generic, Technology
 ---
 
-#### Hi
-Hellow World from Sajayan.com !!
+#### Hello World !
+------
+
+> Hello World from Sajayan.com !!
+
+*****
+
+```java
+public class HelloWorld {
+   public static void main(String[] args) {
+      // Prints "Hello, World" in the terminal window.
+      System.out.println("Hello, World");
+   }
+}
+```
