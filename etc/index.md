@@ -5,6 +5,7 @@ title: CRM Solution Architect
 description: Updates on to Technology and other interesting topics
 ---
 
-## Will be added soon
+
+#### Coming soon ....
   
 
