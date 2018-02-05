@@ -12,11 +12,7 @@ tags: Generic, Technology
 #### Hello World !
 ------
 
-<<<<<<< HEAD
 > Hello World from Sajayan.com ... !! 
-=======
-> Hello World from Sajayan.com ... :-) !! 
->>>>>>> 61131b41afa7236084305e317220a4dbbae5ca1f
 
 *****
 
