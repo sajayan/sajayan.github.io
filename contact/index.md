@@ -5,7 +5,7 @@ title: Salesforce CRM Consultant
 description: Find me on LinkedIn, Twitter, Medium, GitHub etc.
 ---
 
-* Contact
+
   
 Find me on:
 * [LinkedIn](http://www.linkedin.com/in/sajayan/)
