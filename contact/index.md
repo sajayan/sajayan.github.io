@@ -5,10 +5,9 @@ title: Salesforce CRM Consultant
 description: Find me on LinkedIn, Twitter, Medium, GitHub etc.
 ---
 
-## Contact Sajayan Kaimal
+# Contact
   
-Find me on the following websites:
-
+Find me on:
 * [LinkedIn](http://www.linkedin.com/in/sajayan/)
 * [Twitter](http://twitter.com/sajayan)
 * [GitHub](http://github.com/sajayan)
