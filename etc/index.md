@@ -1,7 +1,7 @@
 ---
 layout: full
 body: contact
-title: CRM Solution Architect
+title: Salesforce CRM Consultant
 description: Updates on to Technology and other interesting topics
 ---
 
